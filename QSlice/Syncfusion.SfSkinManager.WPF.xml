@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Syncfusion.SfSkinManager.WPF</name>
+    </assembly>
+    <members>
+        <member name="M:Syncfusion.SfSkinManager.SkinHelper.GetDictonaries(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="type"></param>
+            <param name="style"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SkinHelper.GetDictionaries(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="type"></param>
+            <param name="style"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SkinHelper.GetStylesOfElement(System.Windows.DependencyObject)">
+            <summary>
+            
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SkinHelper.GetRootElement(System.Windows.DependencyObject)">
+            <summary>
+            
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SkinHelper.SetStylesOnDialogWindow(System.Windows.Window,Syncfusion.SfSkinManager.VisualStyles)">
+            <summary>
+            
+            </summary>
+            <param name="obj"></param>
+            <param name="style"></param>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SfSkinManager.OnVisualStyleChanged(System.Windows.DependencyObject,System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            
+            </summary>
+            <param name="obj"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SfSkinManager.RemoveDictionaryIfExist(System.Windows.FrameworkElement,System.Windows.ResourceDictionary)">
+            <summary>
+            
+            </summary>
+            <param name="element"></param>
+            <param name="dictionary"></param>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SfSkinManager.DictionaryExist(System.Windows.ResourceDictionary,System.Windows.ResourceDictionary)">
+            <summary>
+            
+            </summary>
+            <param name="element"></param>
+            <param name="dictionary"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SfSkinManager.ApplyThemeForMSControl(Syncfusion.SfSkinManager.VisualStyles)">
+            <summary>
+            
+            </summary>
+            <param name="style"></param>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SfSkinManager.ApplyTheme(System.Windows.DependencyObject,System.String,Syncfusion.SfSkinManager.SkinHelper)">
+            <summary>
+            
+            </summary>
+            <param name="item"></param>
+            <param name="style"></param>
+            <param name="styleInstance"></param>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SfSkinManager.EnumLogicalChildrenOfType(System.Windows.DependencyObject,System.Type)">
+            <summary>
+            
+            </summary>
+            <param name="rootelement"></param>
+            <param name="typeChild"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Syncfusion.SfSkinManager.SfSkinManager.FindAncestor(System.Windows.Media.Visual,System.Type)">
+            <summary>
+            
+            </summary>
+            <param name="startingFrom"></param>
+            <param name="typeAncestor"></param>
+            <returns></returns>
+        </member>
+        <member name="T:ClassReferenceAttribute">
+            <summary>
+            Represents a class for the Reference attributes
+            </summary>
+        </member>
+        <member name="P:ClassReferenceAttribute.IsReviewed">
+            <summary>
+            Returns a value when set
+            </summary>
+            <value>
+            <c>true</c> if instance is created ; otherwise, <c>false</c>.
+            </value>
+        </member>
+        <member name="P:ClassReferenceAttribute.ShouldInclude">
+            <summary>
+            Returns a value when set
+            </summary>
+            <value>
+            <c>true</c> if instance is created ; otherwise, <c>false</c>.
+            </value>
+        </member>
+        <member name="T:Syncfusion.SfSkinManager.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.SfSkinManager.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Syncfusion.SfSkinManager.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
