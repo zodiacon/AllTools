@@ -13,6 +13,10 @@ All reasonably stable tools
 
 **MetroManager** - list (and launch) installed Windows Runtime components and apps
 
+**NtfsStreams** - show NTFS alternate streams in files
+
+**ObjDir** - command line tool to show object manager namespace
+
 **QSlice** - modern version of the classic QSlice tool
 
 **QSliceX** - pie chart graphics for QSlice
