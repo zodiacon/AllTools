@@ -1,7 +1,7 @@
 # AllTools
 All reasonably stable tools
 
-**CpuStres** - thread/CPU stres testing app
+**CpuStres** - thread/CPU stress testing app
 
 **DriverMon** - monitor any driver activity
 
@@ -12,6 +12,8 @@ All reasonably stable tools
 **Kdump64** - generate a local kernel dump (64 bit)
 
 **MetroManager** - list (and launch) installed Windows Runtime components and apps
+
+**MemMapView** - view any process memory (including protected and minimal processes)
 
 **NtfsStreams** - show NTFS alternate streams in files
 
