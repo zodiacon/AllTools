@@ -27,7 +27,7 @@ All reasonably stable tools
 
 **PEExplorer** - PE file viewer
 
-**PoolMon** - kernel pool memory allocations
+**PoolMonX** - kernel pool memory allocations
 
 **PdbView** - view PDB files
 
