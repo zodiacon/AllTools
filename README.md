@@ -31,8 +31,8 @@ All reasonably stable tools
 
 **PdbView** - view PDB files
 
+**PerfMonX** - enhanced Performance Monitor tool
+
 **ProcMonX** - ProcMon-like tool based on Event Tracing for Windows (ETW)
 
 **Sysrun** - run any executable with the SYSTEM account (no service needed)
-
-**PerfMonX** - enhanced Performance Monitor tool
