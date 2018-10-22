@@ -36,3 +36,5 @@ All reasonably stable tools
 **ProcMonX** - ProcMon-like tool based on Event Tracing for Windows (ETW)
 
 **Sysrun** - run any executable with the SYSTEM account (no service needed)
+
+**System Explorer** (SysExp) - system, process, thread and other information - all in one tool (WIP)
