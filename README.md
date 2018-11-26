@@ -5,6 +5,8 @@ All reasonably stable tools
 
 **DriverMon** - monitor any driver activity
 
+**ErrorLookup** - error code description for Win32 (GetLastError) and NTSTATUS
+
 **GFlagsX** - enhanced version of the GFlags tool
 
 **Kdump** - generate a local kernel dump
