@@ -38,3 +38,5 @@ All reasonably stable tools
 **Sysrun** - run any executable with the SYSTEM account (no service needed)
 
 **System Explorer** (SysExp) - system, process, thread and other information - all in one tool (WIP)
+
+**XCalculator** (XCalc) - simple calculator supporting variables and functions
