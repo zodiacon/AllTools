@@ -40,3 +40,5 @@ All reasonably stable tools
 **System Explorer** (SysExp) - system, process, thread and other information - all in one tool (WIP)
 
 **XCalculator** (XCalc) - simple calculator supporting variables and functions
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/pavelyosifovich)
