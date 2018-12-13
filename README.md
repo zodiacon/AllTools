@@ -39,6 +39,8 @@ All reasonably stable tools
 
 **System Explorer** (SysExp) - system, process, thread and other information - all in one tool (WIP)
 
+**WindowTitleEx** - Show HWND, TID, PID on windows. Revert with included tray icon
+
 **XCalculator** (XCalc) - simple calculator supporting variables and functions
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/pavelyosifovich)
