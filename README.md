@@ -41,6 +41,8 @@ All reasonably stable tools
 
 **WindowTitleEx** - Show HWND, TID, PID on windows. Revert with included tray icon
 
+** winsta ** - Show current session's window stations, desktops and top level visible windows (with non-empty titles)
+
 **XCalculator** (XCalc) - simple calculator supporting variables and functions
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/pavelyosifovich)
