@@ -7,6 +7,8 @@ All reasonably stable tools
 
 **ErrorLookup** - error code description for Win32 (GetLastError) and NTSTATUS
 
+**ETW Explorer** - view ETW XML manifests for registered providers
+
 **GFlagsX** - enhanced version of the GFlags tool
 
 **Kdump** - generate a local kernel dump
