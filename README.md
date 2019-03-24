@@ -3,6 +3,8 @@ All reasonably stable tools
 
 **CpuStres** - thread/CPU stress testing app
 
+**DebugPrint** - monitor OutputDebugString/DbgPrint(Ex) calls (no driver needed)
+
 **DriverMon** - monitor any driver activity
 
 **ErrorLookup** - error code description for Win32 (GetLastError) and NTSTATUS
