@@ -3,6 +3,8 @@ All reasonably stable tools
 
 **AccessMask** - decode access mask for common object types
 
+**BgInfo** - WPF version of the Sysinternals BgInfo tool
+
 **CpuStres** - thread/CPU stress testing app
 
 **DebugPrint** - monitor OutputDebugString/DbgPrint(Ex) calls (no driver needed)
