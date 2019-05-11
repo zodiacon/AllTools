@@ -13,7 +13,9 @@ All reasonably stable tools
 
 **ErrorLookup** - error code description for Win32 (GetLastError) and NTSTATUS
 
-**ETW Explorer** - view ETW XML manifests for registered providers
+**ETWExplorer** - view ETW XML manifests for registered providers
+
+**FSClass** - lists the file system filter classes (command line)
 
 **GFlagsX** - enhanced version of the GFlags tool
 
