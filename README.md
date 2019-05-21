@@ -56,7 +56,3 @@ All reasonably stable tools
 **XCalculator** (XCalc) - simple calculator supporting variables and functions
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/pavelyosifovich)
-
-<html>
-<a href="https://www.patreon.com/bePatron?u=20341968" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-</html>
