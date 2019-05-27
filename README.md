@@ -31,19 +31,21 @@ All reasonably stable tools
 
 **ObjDir** - command line tool to show object manager namespace
 
-**QSlice** - modern version of the classic QSlice tool
-
-**QSliceX** - pie chart graphics for QSlice
-
 **PEExplorer** - PE file viewer
 
-**PoolMonX** - kernel pool memory allocations
+**PoolMonX** - kernel pool memory
+
+**PoolMonXv2** - kernel pool memory (version 2)
 
 **PdbView** - view PDB files
 
 **PerfMonX** - enhanced Performance Monitor tool
 
 **ProcMonX** - ProcMon-like tool based on Event Tracing for Windows (ETW)
+
+**QSlice** - modern version of the classic QSlice tool
+
+**QSliceX** - pie chart graphics for QSlice
 
 **Sysrun** - run any executable with the SYSTEM account (no service needed)
 
