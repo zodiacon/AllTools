@@ -1,4 +1,7 @@
 # AllTools
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/pavelyosifovich)
+
 All reasonably stable tools
 
 **AccessMask** - decode access mask for common object types
@@ -57,4 +60,4 @@ All reasonably stable tools
 
 **XCalculator** (XCalc) - simple calculator supporting variables and functions
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/pavelyosifovich)
+
