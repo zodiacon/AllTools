@@ -26,6 +26,8 @@ All reasonably stable tools
 
 **Kdump64** - generate a local kernel dump (64 bit)
 
+**KernelObjectView** - View stats of kernel objects and handles in the system
+
 **MetroManager** - list (and launch) installed Windows Runtime components and apps
 
 **MemMapView** - view any process memory (including protected and minimal processes)
