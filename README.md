@@ -22,6 +22,8 @@ All reasonably stable tools
 
 **GFlagsX** - enhanced version of the GFlags tool
 
+**Job Explorer** - View job objects
+
 **Kdump** - generate a local kernel dump
 
 **Kdump64** - generate a local kernel dump (64 bit)
