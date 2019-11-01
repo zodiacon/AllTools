@@ -10,6 +10,8 @@ All reasonably stable tools
 
 **CpuStres** - thread/CPU stress testing app
 
+**CpuStress v3** - thread/CPU stress testing app
+
 **DebugPrint** - monitor OutputDebugString/DbgPrint(Ex) calls (no driver needed)
 
 **DriverMon** - monitor any driver activity
