@@ -44,6 +44,8 @@ All reasonably stable tools
 
 **PEExplorer** - PE file viewer
 
+**PEExplorerV2** - PE file viewer version 2.0
+
 **PoolMonX** - kernel pool memory
 
 **PoolMonXv2** - kernel pool memory (version 2)
