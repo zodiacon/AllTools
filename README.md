@@ -48,8 +48,6 @@ All reasonably stable tools
 
 **PEExplorerV2** - PE file viewer version 2.0
 
-**PoolMonX** - kernel pool memory
-
 **PoolMonXv2** - kernel pool memory (version 2)
 
 **PdbView** - view PDB files
