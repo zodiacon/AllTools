@@ -42,7 +42,7 @@ All reasonably stable tools
 
 **ObjDir** - command line tool to show object manager namespace
 
-**Object Explorer** - view objects and handles of kernel objects
+**Object Explorer** - view objects and handles of kernel objects (and much more!)
 
 **PEExplorer** - PE file viewer
 
