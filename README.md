@@ -62,7 +62,7 @@ All reasonably stable tools
 
 **Sysrun** - run any executable with the SYSTEM account (no service needed)
 
-**System Explorer** (SysExp) - system, process, thread and other information - all in one tool (WIP)
+**System Explorer** - system, processes, threads, objects, handles, and other information - all in one tool
 
 **WindowTitleEx** - Show HWND, TID, PID on windows. Revert with included tray icon
 
