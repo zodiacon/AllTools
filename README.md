@@ -56,6 +56,8 @@ All reasonably stable tools
 
 **ProcMonX** - ProcMon-like tool based on Event Tracing for Windows (ETW)
 
+**ProcMonX v2** - Enhanced ProcMon-like tool based on Event Tracing for Windows (ETW)
+
 **QSlice** - modern version of the classic QSlice tool
 
 **QSliceX** - pie chart graphics for QSlice
