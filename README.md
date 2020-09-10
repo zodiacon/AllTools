@@ -8,6 +8,8 @@ All reasonably stable tools
 
 **BgInfo** - WPF version of the Sysinternals BgInfo tool
 
+**BITSMgr** - BITS jobs manager application
+
 **CLR Explorer** - View .NET process information / dump file
 
 **CpuStres** - thread/CPU stress testing app
