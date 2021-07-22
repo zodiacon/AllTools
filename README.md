@@ -62,6 +62,8 @@ All reasonably stable tools
 
 **QSliceX** - pie chart graphics for QSlice
 
+**RegExp** - Registry Explorer - view real Registry, udo/redo, and more.
+
 **Sysrun** - run any executable with the SYSTEM account (no service needed)
 
 **System Explorer** - system, processes, threads, objects, handles, and other information - all in one tool
