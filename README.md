@@ -44,6 +44,8 @@ All reasonably stable tools
 
 **ObjDir** - command line tool to show object manager namespace
 
+**ObjExp** - Object Explorer, explore objects and handles
+
 **PEExplorer** - PE file viewer
 
 **PEExplorerV2** - PE file viewer version 2.0
