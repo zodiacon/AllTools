@@ -68,6 +68,8 @@ All reasonably stable tools
 
 **System Explorer** - system, processes, threads, objects, handles, and other information - all in one tool
 
+**Total PE** - Yet another PE viewer (WIP)
+
 **TotalReg** - Total Registry - view real Registry, udo/redo, and more.
 
 **WindowTitleEx** - Show HWND, TID, PID on windows. Revert with included tray icon
