@@ -28,7 +28,7 @@ All reasonably stable tools
 
 **GFlagsX** - enhanced version of the GFlags tool
 
-**Job Explorer** - View job objects
+**INF Studio** - view/edit INF files
 
 **Kdump** - generate a local kernel dump
 
