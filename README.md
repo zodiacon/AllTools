@@ -30,8 +30,6 @@ All reasonably stable tools
 
 **INF Studio** - view/edit INF files
 
-**Kdump** - generate a local kernel dump
-
 **Kdump64** - generate a local kernel dump (64 bit)
 
 **KernelObjectView** - View stats of kernel objects and handles in the system
