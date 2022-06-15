@@ -68,7 +68,7 @@ All reasonably stable tools
 
 **Total PE** - Yet another PE viewer (WIP)
 
-**TotalReg** - Total Registry - view real Registry, udo/redo, and more.
+**TotalReg** - Total Registry - view/edit real Registry, undo/redo, and much more.
 
 **WindowTitleEx** - Show HWND, TID, PID on windows. Revert with included tray icon
 
