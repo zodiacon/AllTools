@@ -76,6 +76,8 @@ All reasonably stable tools
 
 **[winsta](https://github.com/zodiacon/winsta)** - Show current session's window stations, desktops and top level visible windows (with non-empty titles)
 
+**[WFP Explorer](https://github.com/zodiacon/wfpexplorer)** - Windows Filtering Platform Explorer
+
 **[XCalculator](https://github.com/zodiacon/CalculatorX)** (XCalc) - simple calculator supporting variables and functions
 
 
