@@ -62,7 +62,7 @@ All reasonably stable tools
 
 **QSliceX** - pie chart graphics for QSlice
 
-**[Quick Assembler](https://github.com/zodiacon/AllTools/QuickAsm.zip)** - simple x86 assembler and emulator
+**[Quick Assembler](https://github.com/zodiacon/AllTools/blob/master/QuickAsm.zip)** - simple x86 assembler and emulator
 
 **[Sysrun](https://github.com/zodiacon/sysrun)** - run any executable with the SYSTEM account (no service needed)
 
