@@ -80,6 +80,8 @@ All reasonably stable tools
 
 **[WFP Explorer](https://github.com/zodiacon/wfpexplorer)** - Windows Filtering Platform Explorer
 
+**[WMI Explorer](https://github.com/zodiacon/wmiexplorer)** - Windows Management Instrumentation Explorer
+
 **[XCalculator](https://github.com/zodiacon/CalculatorX)** (XCalc) - simple calculator supporting variables and functions
 
 
