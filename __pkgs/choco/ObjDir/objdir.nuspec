@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>objdir</id>
+    <title>ObjDir</title>
+    <version>0.1.0</version>
+    <authors>zodiacon</authors>
+    <owners>zodiacon</owners>
+    <summary>Command line tool to show Object Manager namespace.</summary>
+    <description>This tool displays the details in the Windows Object Manager namespace, like, `Event`, `Directory`, `SymbolicLinks`, etc.</description>
+    <projectUrl>https://github.com/zodiacon/ObjDir</projectUrl>
+    <tags>windows objects namespace wininternals</tags>
+    <licenseUrl>https://github.com/zodiacon/AllTools/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://th.bing.com/th/id/OIP.SgC_U5gouP8VqC1E1TWRUwHaHa</iconUrl>
+  </metadata>
+</package>
